@@ -1,0 +1,14 @@
+1) What is the definition of server port?
+A Server port is identified for each transport protocol and address combination by a 16-bit unsigned number, known as the port number. 
+A server’s operating system uses ports to make sure data is received by the right process, often by delivering it to a chunk of memory mapped for that purpose
+
+2) What is server port range?
+
+Server Port ranges from 1024 to 4951
+
+3) How many bits does number above represent?
+It represents N amount of bits in the equation 2 ^N
+
+4) State 10 common server ports
+
+Common server  ports are 80, 20, 21, 22, 23, 25, 53, 110, 119, 443
