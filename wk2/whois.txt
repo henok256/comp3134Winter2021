@@ -1,0 +1,230 @@
+#1 www.georgebrown.ca
+Registrar Info
+NameWebnames.ca Inc.
+Whois Serverwhois.ca.fury.ca
+Referral URLwww.webnames.ca
+StatusclientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+Registrant Contact Information:
+Name George Brown College (Toronto)
+Organization
+AddressP.O. Box 1015 Station B
+CityToronto
+State / ProvinceON
+Postal CodeM5T2T9
+CountryCA
+Phone+1.4164155000
+Fax+1.4164154667
+Email
+
+Administrative Contact Information:
+Name George Brown College (Toronto)
+Organization
+AddressP.O. Box 1015 Station B
+CityToronto
+State / Province ON
+Postal Code M5T2T9
+CountryCA
+Phone+1.4164155000
+Fax+1.4164154667
+Email
+
+Technical Contact Information:
+Name George Brown College (Toronto)
+Organization
+AddressP.O. Box 1015 Station B
+CityToronto
+State / Province ON
+Postal Code M5T2T9
+Country CA
+Phone +1.4164155000
+Fax +1.4164154667
+Email
+
+Billing Contact Information:
+Name George Brown College (Toronto)
+Organization
+AddressP.O. Box 1015 Station B
+CityToronto
+State / ProvinceON
+Postal Code M5T2T9
+Country CA
+Phone +1.4164155000
+Fax+1.4164154667
+Email
+
+                          #2 www.goal.com
+
+Registrar Info
+
+Name Safenames Ltd
+Whois Server whois.safenames.net
+Referral URLhttp://www.safenames.net
+StatusclientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+
+Registrant Contact Information:
+Name Data protected, not disclosed
+Organization
+Address Hanover House
+City Feltham
+Postal Code TW13 7BZ
+Country UK
+Phone Data protected, not disclosed
+Fax Data protected, not disclosed
+Email
+
+Administrative Contact Information:
+NameData protected, not disclosed
+Organization
+Address Hanover House
+Cit yFeltham
+Postal Code TW13 7BZ
+Country UK
+Phone Data protected, not disclosed
+Fax Data protected, not disclosed
+Email
+
+Technical Contact Information:
+Name Data protected, not disclosed
+Organization
+Address Hanover House
+City Feltham
+Postal Code TW13 7BZ
+Country UK
+Phone Data protected, not disclosed
+Fax Data protected, not disclosed
+Email
+
+                                            #3 www.bbc.com
+Registrar Info
+NameTUCOWS, INC.
+Whois Serverwhois.tucows.com
+Referral URLhttp://tucowsdomains.com
+StatusclientTransferProhibited https://icann.org/epp#clientTransferProhibited
+clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+
+Registrant Contact Information:
+Name REDACTED FOR PRIVACY
+Organization REDACTED FOR PRIVACY
+Address REDACTED FOR PRIVACY
+City REDACTED FOR PRIVACY
+State / Province REDACTED FOR PRIVACY
+Postal Code REDACTED FOR PRIVACY
+Country GB
+Phone REDACTED FOR PRIVACY
+Fax REDACTED FOR PRIVACY
+Email
+
+Administrative Contact Information:
+Name REDACTED FOR PRIVACY
+Organization REDACTED FOR PRIVACY
+Address REDACTED FOR PRIVACY
+City REDACTED FOR PRIVACY
+State / Province REDACTED FOR PRIVACY
+Postal Code REDACTED FOR PRIVACY
+Country GB
+Phone REDACTED FOR PRIVACY
+Fax REDACTED FOR PRIVACY
+Email
+
+Technical Contact Information:
+Name REDACTED FOR PRIVACY
+Organization REDACTED FOR PRIVACY
+Address REDACTED FOR PRIVACY
+City REDACTED FOR PRIVACY
+State / Province REDACTED FOR PRIVACY
+Postal Code REDACTED FOR PRIVACY
+Country GB
+Phone REDACTED FOR PRIVACY
+Fax REDACTED FOR PRIVACY
+Email
+
+                                              #4 www.w3schools.com
+Registrar Info
+NameNetwork Solutions, LLC
+Whois Serverwhois.networksolutions.com
+Referral URLhttp://networksolutions.com
+Status clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+Registrant Contact Information:
+Name PERFECT PRIVACY, LLC
+Organization
+Address 5335 Gate Parkway care of Network Solutions PO Box 459
+City Jacksonville
+State / Province FL
+Postal Code 32256
+Country US
+Phone +1.5707088780
+Email
+
+Administrative Contact Information:
+Name PERFECT PRIVACY, LLC
+Organization
+Address 5335 Gate Parkway care of Network Solutions PO Box 459
+City Jacksonville
+State / Province FL
+Postal Code 32256
+Country US
+Phone +1.5707088780
+Email
+
+Technical Contact Information:
+Name PERFECT PRIVACY, LLC
+Organization
+Address5335 Gate Parkway care of Network Solutions PO Box 459
+City Jacksonville
+State / Province FL
+Postal Code 32256
+Country US
+Phone +1.5707088780
+Email
+
+        #5 www.udemy.com
+Registrar Info
+Name Safenames Ltd
+Whois Serverwhois.safenames.net
+Referral URL http://www.safenames.net
+StatusclientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+
+Registrant Contact Information:
+NameData protected, not disclosed
+Organization
+Address 600 Harrison St - 3rd Floor
+CitySan Francisco
+State / Province CA
+Postal Code 94107
+CountryUS
+PhoneData protected, not disclosed
+FaxData protected, not disclosed
+Email
+
+Administrative Contact Information:
+NameData protected, not disclosed
+Organization
+Address600 Harrison St - 3rd Floor
+CitySan Francisco
+State / ProvinceCA
+Postal Code94107
+CountryUS
+PhoneData protected, not disclosed
+FaxData protected, not disclosed
+Email
+
+Technical Contact Information:
+Name Data protected, not disclosed
+Organization
+Address 600 Harrison St - 3rd Floor
+City San Francisco
+State / Province CA
+Postal Code 94107
+Country US
+Phone Data protected, not disclosed
+Fax Data protected, not disclosed
+Email
+

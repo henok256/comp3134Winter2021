@@ -1,0 +1,10 @@
+traceroute to www.nba.com (23.3.127.158), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.78.4.0 (10.78.4.0)  1.831 ms 10.78.6.93 (10.78.6.93)  1.784 ms 10.78.4.6 (10.78.4.6)  1.829 ms
+ 3  138.197.249.90 (138.197.249.90)  1.307 ms 138.197.249.82 (138.197.249.82)  1.305 ms  1.348 ms
+ 4  toro-b1-link.telia.net (62.115.55.29)  1.669 ms toro-b1-link.telia.net (62.115.9.209)  1.652 ms toro-b1-link.telia.net (62.115.55.29)  1.630 ms
+ 5  toro-b3-link.ip.twelve99.net (62.115.116.180)  2.220 ms  2.207 ms  2.176 ms
+ 6  * * *
+ 7  nyk-b5-link.ip.twelve99.net (80.91.254.14)  11.798 ms  11.424 ms  11.376 ms
+ 8  akamai-ic-341945-nyk-b5.c.telia.net (62.115.171.41)  10.729 ms  10.717 ms  11.656 ms
+ 9  ae10.coresite-ewr.netarch.akamai.com (23.203.156.159)  16.232 ms  15.956 ms  15.906 ms

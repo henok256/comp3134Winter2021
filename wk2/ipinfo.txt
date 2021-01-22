@@ -1,0 +1,16 @@
+      #1 cnn.com
+ip Address: 151.101.193.67
+Geolocation: US (United States), CA, California, 94107 San Francisco
+       #2 skysport.com
+ip Address: 66.175.58.9
+Geolocation: US (United States), CA, California, 95616 Davis
+         #3 www.google.com
+ip Address: 172.217.11.46
+Geolocation: US (United States), CA, California, 94043 Mountain
+         #4 www.ovo.ca
+ip Address: 155.138.142.107
+Geolocation: US (United States), MI, Michigan, 48710 University Center
+          #5 godaddy.com
+ip Address: 208.109.192.70
+Geolocation: US (United States), AZ, Arizona, 85260 Scottsdale
+ 
