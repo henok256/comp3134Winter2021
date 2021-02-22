@@ -1,0 +1,8 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -n -i eth0
+01:47:33.581273 IP 138.197.154.182.22 > 76.67.105.194.56144: Flags [P.], seq 10028708:10028872, ack 4825, win 501, length 164
+01:47:33.581376 IP 138.197.154.182.22 > 76.67.105.194.56144: Flags [P.], seq 10028872:10029036, ack 4825, win 501, length 164
+01:47:33.581466 IP 138.197.154.182.22 > 76.67.105.194.56144: Flags [P.], seq 10029036:10029200, ack 4825, win 501, length 164
+^C
+63301 packets captured
+63490 packets received by filter
+182 packets dropped by kernel

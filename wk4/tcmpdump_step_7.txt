@@ -1,0 +1,26 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -r 0001.pcap
+reading from file 0001.pcap, link-type EN10MB (Ethernet)
+01:45:30.594482 IP 138.197.154.182.ssh > bras-base-toroon0817w-grc-44-76-67-105-194.dsl.bell.ca.56144: Flags [P.], seq 2469644198:2469644242, ack 892949687, win 501, length 44
+01:45:30.594654 IP 138.197.154.182.ssh > bras-base-toroon0817w-grc-44-76-67-105-194.dsl.bell.ca.56144: Flags [P.], seq 44:152, ack 1, win 501, length 108
+01:45:30.594793 IP 138.197.154.182.ssh > bras-base-toroon0817w-grc-44-76-67-105-194.dsl.bell.ca.56144: Flags [P.], seq 152:188, ack 1, win 501, length 36
+01:45:30.598640 IP bras-base-toroon0817w-grc-44-76-67-105-194.dsl.bell.ca.56144 > 138.197.154.182.ssh: Flags [.], ack 44, win 10158, length 0
+01:45:30.598692 IP bras-base-toroon0817w-grc-44-76-67-105-194.dsl.bell.ca.56144 > 138.197.154.182.ssh: Flags [.], ack 188, win 10164, length 0
+01:45:30.809063 IP 37.139.16.229.56302 > 138.197.154.182.19333: Flags [S], seq 3904048426, win 1024, length 0
+01:45:33.635939 IP 119.63.84.130.5295 > 138.197.154.182.ssh: Flags [FP.], seq 2264711604:2264711656, ack 1364377270, win 262, options [nop,nop,TS val 1600341223 ecr 604663901], length 52
+01:45:33.636016 IP 138.197.154.182 > 119.63.84.130: ICMP 138.197.154.182 tcp port ssh unreachable, length 112
+01:45:34.621371 IP bd05c024.virtua.com.br.59437 > 138.197.154.182.microsoft-ds: Flags [S], seq 3903290698, win 8192, options [mss 1460,nop,wscale 2,nop,nop,sackOK], length 0
+01:45:34.898990 IP 138.197.154.182.ssh > 119.63.84.130.5295: Flags [P.], seq 4294967229:1, ack 0, win 507, options [nop,nop,TS val 604672861 ecr 1600320466], length 68
+01:45:35.128079 IP 119.63.84.130.5295 > 138.197.154.182.ssh: Flags [.], ack 1, win 262, options [nop,nop,TS val 1600342715 ecr 604672861,nop,nop,sack 1 {4294967229:1}], length 0
+01:45:35.128162 IP 138.197.154.182 > 119.63.84.130: ICMP 138.197.154.182 tcp port ssh unreachable, length 72
+01:45:46.933176 IP static.vnpt.vn.50896 > 138.197.154.182.microsoft-ds: Flags [S], seq 4253960982, win 8192, options [mss 1452,nop,wscale 2,nop,nop,sackOK], length 0
+01:45:50.020231 IP 119.63.84.130.5295 > 138.197.154.182.ssh: Flags [FP.], seq 0:52, ack 1, win 262, options [nop,nop,TS val 1600357607 ecr 604672861], length 52
+01:45:50.020296 IP 138.197.154.182 > 119.63.84.130: ICMP 138.197.154.182 tcp port ssh unreachable, length 112
+01:45:52.562939 IP 138.197.154.182.ssh > 119.63.84.130.5295: Flags [P.], seq 4294967229:1, ack 0, win 507, options [nop,nop,TS val 604690525 ecr 1600320466], length 68
+01:45:52.792398 IP 119.63.84.130.5295 > 138.197.154.182.ssh: Flags [.], ack 1, win 262, options [nop,nop,TS val 1600360380 ecr 604690525,nop,nop,sack 1 {4294967229:1}], length 0
+01:45:52.792474 IP 138.197.154.182 > 119.63.84.130: ICMP 138.197.154.182 tcp port ssh unreachable, length 72
+01:45:54.121220 IP bras-base-toroon0817w-grc-44-76-67-105-194.dsl.bell.ca.56144 > 138.197.154.182.ssh: Flags [P.], seq 1:37, ack 188, win 10164, length 36
+01:45:54.121516 IP 138.197.154.182.ssh > bras-base-toroon0817w-grc-44-76-67-105-194.dsl.bell.ca.56144: Flags [P.], seq 188:224, ack 37, win 501, length 36
+01:45:54.180727 IP bras-base-toroon0817w-grc-44-76-67-105-194.dsl.bell.ca.56144 > 138.197.154.182.ssh: Flags [.], ack 224, win 10163, length 0
+01:45:55.290691 IP bras-base-toroon0817w-grc-44-76-67-105-194.dsl.bell.ca.56144 > 138.197.154.182.ssh: Flags [P.], seq 37:73, ack 224, win 10163, length 36
+01:45:55.291005 IP 138.197.154.182.ssh > bras-base-toroon0817w-grc-44-76-67-105-194.dsl.bell.ca.56144: Flags [P.], seq 224:260, ack 73, win 501, length 36
+01:45:55.350679 IP bras-base-toroon0817w-grc-44-76-67-105-194.dsl.bell.ca.56144 > 138.197.154.182.ssh: Flags [.], ack 260, win 10163, length 0

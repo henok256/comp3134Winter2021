@@ -1,0 +1,6 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -i eth0 tcp
+01:48:37.513702 IP 138.197.154.182.ssh > bras-base-toroon0817w-grc-44-76-67-105-194.dsl.bell.ca.56144: Flags [P.], seq 6097772:6097976, ack 2773, win 501, length 204
+^C
+30550 packets captured
+30805 packets received by filter
+255 packets dropped by kernel

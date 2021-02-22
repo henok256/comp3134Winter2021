@@ -1,0 +1,10 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -i eth0 port 22
+gth 204
+01:49:42.914699 IP bras-base-toroon0817w-grc-44-76-67-105-194.dsl.bell.ca.56144 > 138.197.154.182.ssh: Flags [.], ack 12216824, win 9766, length 0
+01:49:42.914710 IP bras-base-toroon0817w-grc-44-76-67-105-194.dsl.bell.ca.56144 > 138.197.154.182.ssh: Flags [.], ack 12218252, win 9760, length 0
+01:49:42.914733 IP bras-base-toroon0817w-grc-44-76-67-105-194.dsl.bell.ca.56144 > 138.197.154.182.ssh: Flags [P.], seq 6229:6337, ack 12218252, win 9760, length 108
+^C
+61931 packets captured
+62117 packets received by filter
+186 packets dropped by kernel
+

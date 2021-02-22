@@ -1,0 +1,14 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -i eth0
+01:30:20.892119 IP 138.197.154.182.ssh > bras-base-toroon0817w-grc-44-76-67-105-194.dsl.bell.ca.56144: Flags [P.], seq 325825568:325825780, ack 170925, win 501, length 212
+01:30:20.892227 IP 138.197.154.182.ssh > bras-base-toroon0817w-grc-44-76-67-105-194.dsl.bell.ca.56144: Flags [P.], seq 325825780:325825992, ack 170925, win 501, length 212
+01:30:20.892323 IP 138.197.154.182.ssh > bras-base-toroon0817w-grc-44-76-67-105-194.dsl.bell.ca.56144: Flags [P.], seq 325825992:325826204, ack 170925, win 501, length 212
+01:30:20.892425 IP 138.197.154.182.ssh > bras-base-toroon0817w-grc-44-76-67-105-194.dsl.bell.ca.56144: Flags [P.], seq 325826204:325826416, ack 170925, win 501, length 212
+01:30:20.892557 IP 138.197.154.182.ssh > bras-base-toroon0817w-grc-44-76-67-105-194.dsl.bell.ca.56144: Flags [P.], seq 325826416:325826628, ack 170925, win 501, length 212
+01:30:20.892681 IP bras-base-toroon0817w-grc-44-76-67-105-194.dsl.bell.ca.56144 > 138.197.154.182.ssh: Flags [.], ack 325818828, win 10029, options [nop,nop,sack 1 {325819040:325819380}], length 0
+01:30:20.892711 IP bras-base-toroon0817w-grc-44-76-67-105-194.dsl.bell.ca.56144 > 138.197.154.182.ssh: Flags [.], ack 325819380, win 10161, length 0
+01:30:20.892719 IP bras-base-toroon0817w-grc-44-76-67-105-194.dsl.bell.ca.56144 > 138.197.154.182.ssh: Flags [P.], seq 170925:170961, ack 325819380, win 10161, length 36
+01:30:20.892726 IP bras-base-toroon0817w-grc-44-76-67-105-194.dsl.bell.ca.56144 > 138.197.154.182.ssh: Flags [.], ack 325819972, win 10159, length 0
+^C
+1593744 packets captured
+1597244 packets received by filter
+3500 packets dropped by kernel

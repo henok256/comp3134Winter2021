@@ -1,0 +1,13 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -XX -i eth0
+  0x0230:  b02b 330c 26de 50e8 3bc3 8b45 10bb 3bf2  .+3.&.P.;..E..;.
+        0x0240:  f820 308f 0a67 79a5 4912 4b4a 183a c964  ..0..gy.I.KJ.:.d
+        0x0250:  c521 3783 7b9b 5b21 3444 9358 19b8 4639  .!7.{.[!4D.X..F9
+        0x0260:  b8c1 52c3 d130 918f f29f cb5f e044 98b3  ..R..0....._.D..
+        0x0270:  aed0 0405 6a3d a6e6 0948 9259 7cbd 053d  ....j=...H.Y|..=
+        0x0280:  dac0 8442 f8b5 daa7 863a 948c c8ef 7782  ...B.....:....w.
+        0x0290:  cee7 720a 574f d50f b70b                 ..r.WO....
+
+67854 packets captured
+631931 packets received by filter
+564045 packets dropped by kernel
+
