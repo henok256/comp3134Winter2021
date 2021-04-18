@@ -1,2 +1,0 @@
-I see 2 warning messages from the browser. 
-It shows the full directory in the warning messages /var/www/html/directory_traversal_part1.php
