@@ -1,0 +1,13 @@
+In the text file i have written everything as i was told by 
+professor and i did everything. After that i created the php file 
+which reads the text file and print on the browser. i wrote the follwing
+code 
+
+<?php
+$myfile = fopen("storedxss.txt", "r") or die("Unable to open file!");
+echo fread($myfile,filesize("stored.txt"));
+fclose($myfile);
+?>
+
+but when i executed it did not work i got no result. It means the code 
+could not read from the file.

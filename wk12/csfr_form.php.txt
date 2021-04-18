@@ -1,0 +1,16 @@
+<?php
+var confirmation = 06;
+
+?>
+
+
+
+ <h3>Add entry</h3>
+    <p> Add another Article</p>
+    <form action="csfr.php" method = "post">
+        <label for="username">Username</label> <br /><br />
+        <input type="hidden" name="username" id="username" value="<?php echo $_SESSION['username'];?>" />
+
+        <label for="password">Password:</label> <input type="text" id="password" name="password"><br /><br />
+        <button type = "submit">Login</button>
+    </form>

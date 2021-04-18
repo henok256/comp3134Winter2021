@@ -1,0 +1,19 @@
+I noticed that there is a bit difference in both files first 
+csfr_action.php and the second one is csfr_form.php
+
+This is copied from csfr.php and csfr.html files respectively.
+
+There was a little change in both files. in the first one which is 
+csfr_action.php i had to get a session variable named confirmation
+and i created the variable named confirmation. Moreover, i had to 
+retrieve the value named confirmation and i ensure the session variable
+and confirmation value are equal.
+
+However in second file, csfr_form.php i created the variable called 
+confirmation and assigned some random value to it. and i sent the
+ session variable value as a hidden form  field value named 
+confirmation.  
+the code is below.
+
+<input type="hidden" name="login_email" id="login_email" 
+value="<?php echo $_SESSION['email'];?>" />
