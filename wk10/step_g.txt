@@ -1,0 +1,5 @@
+I can use the for loop to write the heading from 1 to 6
+h1 to h6
+as i did it in the web you can see create the variable 
+which contain the 6 and from 0 to 5 i run the for loop
+and it will print the same result as html

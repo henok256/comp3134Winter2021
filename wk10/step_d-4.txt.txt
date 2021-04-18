@@ -1,0 +1,26 @@
+The location  directory_traversal_part1.php?q=../../
+
+shows
+
+the array of the folders that has a bunch of the information there are 
+16 elements in the array starting from 0 to 15 following..
+
+Array
+(
+    [0] => .
+    [1] => ..
+    [2] => backups
+    [3] => cache
+    [4] => crash
+    [5] => lib
+    [6] => local
+    [7] => lock
+    [8] => log
+    [9] => mail
+    [10] => opt
+    [11] => run
+    [12] => snap
+    [13] => spool
+    [14] => tmp
+    [15] => www
+)
