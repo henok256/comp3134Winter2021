@@ -1,2 +1,0 @@
-I see an array with 3 elements with one of them being a directory.
- The html directory is shown.
