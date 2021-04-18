@@ -1,0 +1,5 @@
+hping3 --baseport --destport 138.197.154.182 --data 10000
+
+hping3 --data 9000 -i x 90 -a 138.197.154.182
+
+hping3 --force-icmp 110000 --data 1000 -i u75000

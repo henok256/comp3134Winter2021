@@ -1,0 +1,13 @@
+There is a little deference between script tags and the html 
+entities. Html entities are converting some of the texts into 
+specific kind of logoes or code. for example If you use the less 
+than (<) or greater than (>) signs in your text, the browser might 
+mix them with tags. so for that differece we write the entities code
+
+we have some of examples
+
+<	less than				&lt;	&#60;
+>	greater than				&gt;	&#62;
+&	ampersand				&amp;	&#38;
+"	double quotation mark			&quot;	&#34;
+'	single quotation mark (apostrophe)	&apos;	&#39;

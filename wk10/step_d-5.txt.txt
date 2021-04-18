@@ -1,0 +1,11 @@
+The following location directory_traversal_part1.php?q=%2e%2e%2f
+has the information of the main page which is html in an array form 
+
+there are three elements of the array which are shown below.
+
+Array
+(
+    [0] => .
+    [1] => ..
+    [2] => html
+)
