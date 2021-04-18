@@ -1,0 +1,11 @@
+I created the getusers_2 to get more data and to mitigate the code and 
+rerun the par G of lab exercise 9.
+
+I am doing this G part again as it was intructed by professor. 
+
+I have entered the username Ben 
+			    Ben'--
+			    Ben' or 1=1;
+
+ Now i created more usernames.
+

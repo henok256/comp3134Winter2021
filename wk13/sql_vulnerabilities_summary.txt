@@ -1,0 +1,11 @@
+I have created the database on the digital ocean named users.
+I have create the form in file named getusers_1.php. 
+The form has 2 things first is a input field and another is 
+submit button so it will  get the information from the database with 
+get method. so it will be easy to get it. 
+
+I have entered the 3 input which are
+
+Ben
+Ben’--
+Ben’ or 1=1 
