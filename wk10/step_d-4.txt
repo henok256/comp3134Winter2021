@@ -1,2 +1,2 @@
-1) I see an array with 16 elements which 14 of them are directories.
-2) The names of each directory.
+I see an array with 16 elements which 14 of them are directories.
+ The names of each directory.
